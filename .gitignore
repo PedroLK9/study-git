@@ -138,3 +138,6 @@ buildNumber.properties
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/java,visualstudiocode,eclipse,maven
+
+testse.txt
+.teste.tes
